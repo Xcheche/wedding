@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
             height: 8,
           ),
           const IconAndText(Icons.calendar_today, 'jan 1'),
-          const IconAndText(Icons.location_city_outlined, 'san Fransisco'),
+          const IconAndText(Icons.location_city_outlined, 'Lagos, Nigeria'),
           const SizedBox(
             height: 8,
           ),
